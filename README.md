@@ -1,5 +1,5 @@
 <div>
-  <h2>안녕하세요! 백엔드와 AI, 두 레이어를 함께 보며<br>새로운 가치를 만들어가는 개발자 김성규입니다.</h2>
+  <h2>안녕하세요!<br>백엔드와 AI, 두 레이어를 함께 보며<br>새로운 가치를 만들어가는 개발자 김성규입니다.</h2>
   <p>
     <a href="mailto:seooonggyu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
     <!-- <a href="mailto:22100110@handong.ac.kr"><img src="https://img.shields.io/badge/School_Email-0052CC?style=flat-square&logo=mail&logoColor=white"/></a>
