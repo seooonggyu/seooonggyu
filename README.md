@@ -1,20 +1,15 @@
-<div>
+<div align="center">
   <h2>안녕하세요! 백엔드와 AI, 두 레이어를 함께 보며<br>새로운 가치를 만들어가는 개발자 김성규입니다.</h2>
+
   <p>
     <a href="mailto:seooonggyu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-    <!-- <a href="mailto:22100110@handong.ac.kr"><img src="https://img.shields.io/badge/School_Email-0052CC?style=flat-square&logo=mail&logoColor=white"/></a>
-    <a href="https://github.com/seooonggyu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> -->
   </p>
+
   <p>
-    <a href="https://github.com/seooonggyu">
-      <img src="https://github-readme-stats.vercel.app/api?username=seooonggyu&show_icons=true&theme=default" alt="GitHub Stats" />
-    </a>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seooonggyu&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    <a href="https://github.com/seooonggyu">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seooonggyu&layout=compact&theme=default" alt="Top Languages" />
-    </a>
+    ![seooonggyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seooonggyu&show_icons=true&theme=dark)
   </p>
 </div>
+
 ---
 
 ### 🛠 Tech Stack
