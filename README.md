@@ -9,6 +9,7 @@
     <a href="https://github.com/seooonggyu">
       <img src="https://github-readme-stats.vercel.app/api?username=seooonggyu&show_icons=true&theme=default" alt="GitHub Stats" />
     </a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seooonggyu&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     <a href="https://github.com/seooonggyu">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seooonggyu&layout=compact&theme=default" alt="Top Languages" />
     </a>
